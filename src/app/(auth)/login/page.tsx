@@ -105,7 +105,7 @@ function LoginPage() {
           {/* Welcome Text */}
           <div className="text-center mb-6 sm:mb-8">
             <h1 className="text-[#212B36] font-semibold text-3xl mb-3 sm:mb-4">
-              Đăng nhập
+              Đăng nhập 123
             </h1>
             <div className="flex items-center justify-center gap-2 text-sm sm:text-base text-[#212B36]">
               <span className="text-sm">
