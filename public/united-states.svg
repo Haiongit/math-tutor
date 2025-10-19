@@ -1,0 +1,28 @@
+<svg width="28" height="20" viewBox="0 0 28 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="28" height="20" fill="#B22234"/>
+  <rect width="28" height="1.54" fill="white"/>
+  <rect y="3.08" width="28" height="1.54" fill="#B22234"/>
+  <rect y="6.16" width="28" height="1.54" fill="white"/>
+  <rect y="9.24" width="28" height="1.54" fill="#B22234"/>
+  <rect y="12.32" width="28" height="1.54" fill="white"/>
+  <rect y="15.4" width="28" height="1.54" fill="#B22234"/>
+  <rect y="18.48" width="28" height="1.54" fill="white"/>
+  <rect width="11.2" height="10.78" fill="#3C3B6E"/>
+  <polygon points="1.4,0 1.4,1.54 2.8,1.54 2.8,0" fill="white"/>
+  <polygon points="4.2,1.54 4.2,3.08 5.6,3.08 5.6,1.54" fill="white"/>
+  <polygon points="7,1.54 7,3.08 8.4,3.08 8.4,1.54" fill="white"/>
+  <polygon points="9.8,1.54 9.8,3.08 11.2,3.08 11.2,1.54" fill="white"/>
+  <polygon points="1.4,3.08 1.4,4.62 2.8,4.62 2.8,3.08" fill="white"/>
+  <polygon points="4.2,4.62 4.2,6.16 5.6,6.16 5.6,4.62" fill="white"/>
+  <polygon points="7,4.62 7,6.16 8.4,6.16 8.4,4.62" fill="white"/>
+  <polygon points="9.8,4.62 9.8,6.16 11.2,6.16 11.2,4.62" fill="white"/>
+  <polygon points="1.4,6.16 1.4,7.7 2.8,7.7 2.8,6.16" fill="white"/>
+  <polygon points="4.2,7.7 4.2,9.24 5.6,9.24 5.6,7.7" fill="white"/>
+  <polygon points="7,7.7 7,9.24 8.4,9.24 8.4,7.7" fill="white"/>
+  <polygon points="9.8,7.7 9.8,9.24 11.2,9.24 11.2,7.7" fill="white"/>
+  <polygon points="1.4,9.24 1.4,10.78 2.8,10.78 2.8,9.24" fill="white"/>
+  <polygon points="4.2,10.78 4.2,12.32 5.6,12.32 5.6,10.78" fill="white"/>
+  <polygon points="7,10.78 7,12.32 8.4,12.32 8.4,10.78" fill="white"/>
+  <polygon points="9.8,10.78 9.8,12.32 11.2,12.32 11.2,10.78" fill="white"/>
+</svg>
+
