@@ -34,7 +34,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### ✅ 1. **Hệ thống đăng ký & xác thực**
 
-![Ảnh minh họa bài học](./public/demo/feature1.png)
+![Ảnh minh họa bài học](./public/demo/login.png)
 
 - **Đăng ký tài khoản** với email/mật khẩu hoặc Google OAuth
 - **Xác thực email** qua mã OTP 6 chữ số
@@ -47,7 +47,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 📚 2. **Hệ thống khóa học & bài học**
 
-![Ảnh minh họa bài học](./public/demo)
+![Ảnh minh họa bài học](./public/demo/dashboard.png)
 
 - **Danh mục khóa học**: Phân loại theo lớp học (1-5) và độ khó
 - **Chi tiết khóa học**: Mô tả chi tiết, yêu cầu và kết quả học tập mong đợi
@@ -98,7 +98,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 🛒 6. **Hệ thống thanh toán & mua khóa học**
 
-![Ảnh minh họa bài học](./public/demo)
+![Ảnh minh họa bài học](./public/demo/purchase.png)
 
 - **Giỏ hàng thông minh**: Thêm nhiều khóa học và quản lý đơn hàng
 - **Checkout Flow**: 3 bước thanh toán với UI/UX tối ưu
@@ -112,7 +112,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 🔧 7. **Hệ thống quản trị (Admin)**
 
-![Ảnh minh họa bài học](./public/demo)
+![Ảnh minh họa bài học](./public/demo/admin.png)
 
 - **Dashboard quản trị**: Thống kê tổng quan về người dùng và khóa học
 - **Course Management**: Tạo, chỉnh sửa, ẩn khóa học và bài học
