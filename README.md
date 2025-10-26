@@ -6,9 +6,9 @@ Math Tutor là nền tảng giáo dục trực tuyến chuyên biệt dành cho 
 
 > 🎯 "Chinh Phục Mọi Thử Thách Toán Học! – Từ cơ bản đến nâng cao!"
 
-## [LINK-WEBSITE]()
+## [LINK-WEBSITE](https://math-tutor-three.vercel.app/)
 
-## [LINK-DEMO]()
+## [LINK-DEMO](https://drive.google.com/drive/folders/10Z-4rw31zzrqh8BUOhs05ETYinftf2v9?usp=sharing)
 
 ## 🌐 **Tính năng đa ngôn ngữ**
 
@@ -73,7 +73,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 👨‍🎓 4. **Dashboard học sinh**
 
-![Ảnh minh họa bài học](./public/demo)
+![Ảnh minh họa bài học](./public/demo/student.png)
 
 - **Tổng quan học tập**: Thống kê khóa học đã đăng ký, đang học, đã hoàn thành
 - **Khóa học của tôi**: Danh sách khóa học với tiến trình học tập chi tiết
@@ -86,7 +86,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 🏆 5. **Hệ thống thành tích & động lực**
 
-![Ảnh minh họa bài học](./public/demo)
+![Ảnh minh họa bài học](./public/demo/result.png)
 
 - **Lịch sử học tập**: Theo dõi chi tiết quá trình phát triển
 - **Quiz System**: Hệ thống kiểm tra với nhiều dạng câu hỏi
@@ -131,7 +131,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 🤖 8. **Hệ thống AI & Chatbot**
 
-![Ảnh minh họa bài học](./public/demo)
+![Ảnh minh họa bài học](./public/demo/AI.png)
 
 - **Math AI Assistant**: Chatbot hỗ trợ giải toán cơ bản
 - **Smart Suggestions**: Gợi ý bài học phù hợp với trình độ
