@@ -61,7 +61,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 🎮 3. **Hệ thống bài tập & trò chơi tương tác**
 
-![Ảnh minh họa bài học](./public/demo)
+![Ảnh minh họa bài học](./public/demo/result.png)
 
 - **Bài tập cơ bản**: Từ những phép tính đơn giản đến các dạng bài phức tạp
 - **Thử thách nâng cao**: Các bài toán khó giúp phát triển tư duy logic
@@ -72,7 +72,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 ---
 
 ### 👨‍🎓 4. **Dashboard học sinh**
-
+ 
 ![Ảnh minh họa bài học](./public/demo/student.png)
 
 - **Tổng quan học tập**: Thống kê khóa học đã đăng ký, đang học, đã hoàn thành
@@ -86,7 +86,7 @@ Với hơn **290+ translation keys** được tổ chức theo module, người 
 
 ### 🏆 5. **Hệ thống thành tích & động lực**
 
-![Ảnh minh họa bài học](./public/demo/result.png)
+![Ảnh minh họa bài học](./public/demo/achievements.png)
 
 - **Lịch sử học tập**: Theo dõi chi tiết quá trình phát triển
 - **Quiz System**: Hệ thống kiểm tra với nhiều dạng câu hỏi
